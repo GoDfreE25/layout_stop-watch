@@ -1,0 +1,2 @@
+.stop-watch{height:auto;width:auto;position:relative;margin:0 auto}.stop-watch__arrow{position:absolute;right:0;left:0;top:300px}.stop-watch__arrow:before{background:#bd46b7;height:200px;animation:rotate 3600s linear infinite}.stop-watch__arrow:after,.stop-watch__arrow:before{content:"";border-radius:5px;width:10px;position:absolute;left:50%;bottom:50%;transform-origin:bottom}.stop-watch__arrow:after{background:#3d3dec;height:250px;animation:rotate 60s linear infinite}@keyframes rotate{to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.87fe38e9.css.map */
